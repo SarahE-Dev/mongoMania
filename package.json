@@ -1,0 +1,17 @@
+{
+  "name": "mongomania",
+  "version": "1.0.0",
+  "description": "1. Spin up a brand new project using express generator called `homework-practice-mongodb`:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2",
+    "morgan": "^1.10.0"
+  }
+}
